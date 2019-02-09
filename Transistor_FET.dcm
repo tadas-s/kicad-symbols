@@ -2328,6 +2328,12 @@ K N-Channel GaN MOSFET
 F https://industrial.panasonic.com/content/data/SC/ds/ds4/PGA26E19BA_E.pdf
 $ENDCMP
 #
+$CMP PMV16XN
+D 8.6A Id, 20V Vds, N-channel trench MOSFET, 16 mOhm Rds, SOT-23
+K N-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/PMV16XN.pdf
+$ENDCMP
+#
 $CMP PSMN5R2-60YL
 D 100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56
 K N-Channel MOSFET
